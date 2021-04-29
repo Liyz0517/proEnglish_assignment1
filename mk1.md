@@ -4,7 +4,7 @@
 
 这是一个链接(按住command打开)[百度](https://www.baidu.com)
 
-<a href="/Users/liyongzhen/Desktop/markdown文件/mk2.md">另一个markdown文件</a>
+<a href="https://github.com/Liyz0517/proEnglish_assignment1/blob/main/README.md">另一个markdown文件</a>
 
 
 
